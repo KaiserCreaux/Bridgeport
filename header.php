@@ -6,7 +6,7 @@
 <head>
      <meta charset="utf-8">  
     
-    <title>Brdigeport Presbyterian Church</title> <!--insert your title here-->  
+    <title>Bridgeport Presbyterian Church</title> <!--insert your title here-->  
     <meta name="description" content="Bridgeport First Presbyterian"> <!--insert your description here-->  
     <meta name="author" content="ToddACrow.com"> <!--insert your name here-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--meta responsive-->

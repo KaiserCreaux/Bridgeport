@@ -4,14 +4,6 @@ Author: Todd Crow
 Author URI: http://toddacrow.com/
 */
 
-header {
-	position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 10;
-    overflow: hidden;
-}
-
 .logo {
 height:100%;
 width:auto;
@@ -24,6 +16,10 @@ height:auto;
 
 .desktopBio	{
 margin-bottom: 0px;
+}
+
+.footerStretcher {
+	width:100%;
 }
 
 .logoText {
@@ -41,4 +37,5 @@ margin-bottom: 0px;
 
 .tabHolder li a{
 	text-align:center;
+
 }
