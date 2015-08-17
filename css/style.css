@@ -1,8 +1,16 @@
 /*
-Theme Name: Zito'sSandwichTheme
+Theme Name: Bridgeport
 Author: Todd Crow
 Author URI: http://toddacrow.com/
 */
+
+header {
+	position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+    overflow: hidden;
+}
 
 .logo {
 height:100%;
@@ -12,4 +20,25 @@ width:auto;
 .cardDecoration {
 width:100%;
 height:auto;
+}
+
+.desktopBio	{
+margin-bottom: 0px;
+}
+
+.logoText {
+	font-family: 'EB Garamond', serif;
+	font-weight: bold;
+}
+
+.navTab{
+	width:25%;
+}
+
+.navTabBorder{
+	border-right: thin solid #ff5252; /*red accent-2 */
+}
+
+.tabHolder li a{
+	text-align:center;
 }
