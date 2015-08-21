@@ -3,7 +3,7 @@
 Template Name: community
 */
 ?>
-
+community.php
 
 <?php include "header.php"; ?>
 <?php include "navigation.php"; ?>

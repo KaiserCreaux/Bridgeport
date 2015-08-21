@@ -13,15 +13,15 @@
 					<div class="nav-wrapper">
 					<a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
 					<ul id="nav-mobile" class="hide-on-med-and-down tabHolder" style="Width:100%;">
-						<li class="navTab navTabBorder flow-text"><a href="#sectionMenu">LEARN ABOUT US</a></li> 
-						<li class="navTab navTabBorder flow-text"><a href="#sectionCatering">SCHEDULE AND EVENTS</a></li>
-						<li class="navTab navTabBorder flow-text"><a href="#sectionContact">OUR COMMUNITY</a></li>
+						<li class="navTab navTabBorder flow-text"><a href="index.php/category/learn/">LEARN ABOUT US</a></li> 
+						<li class="navTab navTabBorder flow-text"><a href="index.php/category/schedule/">SCHEDULE AND EVENTS</a></li>
+						<li class="navTab navTabBorder flow-text"><a href="index.php/category/community/">OUR COMMUNITY</a></li>
 						<li class="navTab flow-text"><a href="#sectionMap">CONTACT US</a></li> 
 					</ul>
 					<ul class="side-nav hide-on-large-only red accent-4" id="mobile-demo">
-						<li><a class="white-text" href="#sectionMenu">LEARN ABOUT US</a></li> 
-						<li><a class="white-text" href="#sectionCatering">SCHEDULE AND EVENTS</a></li> 
-						<li><a class="white-text" href="#sectionContact">OUR COMMUNITY</a></li> 
+						<li><a class="white-text" href="index.php/category/learn/">LEARN ABOUT US</a></li> 
+						<li><a class="white-text" href="index.php/category/schedule/">SCHEDULE AND EVENTS</a></li> 
+						<li><a class="white-text" href="index.php/category/community/">OUR COMMUNITY</a></li> 
 						<li><a class="white-text" href="#sectionMap">CONTACT US</a></li> 
 					</ul>
 					</div>

@@ -12,7 +12,7 @@
  */
 
 get_header(); ?>
-
+page.php
 <div id="main-content" class="main-content">
 
 <?php
@@ -40,9 +40,9 @@ get_header(); ?>
 
 		</div><!-- #content -->
 	</div><!-- #primary -->
-	<?php get_sidebar( 'content' ); ?>
+
 </div><!-- #main-content -->
 
 <?php
-get_sidebar();
-get_footer();
+
+get_footer();?>
