@@ -13,8 +13,8 @@
     
   	<!--START CSS--> 
       <!--Import materialize.css-->
-      <link type="text/css" rel="stylesheet" href="wp-content/themes/Bridgeport/css/materialize.min.css"  media="screen,projection"/>
-      <link type="text/css" rel="stylesheet" href="wp-content/themes/Bridgeport/css/style.css"  media="screen,projection"/>
+      <link type="text/css" rel="stylesheet" href="http://localhost/wordpress/wp-content/themes/Bridgeport/css/materialize.min.css"  media="screen,projection"/>
+      <link type="text/css" rel="stylesheet" href="http://localhost/wordpress/wp-content/themes/Bridgeport/css/style.css"  media="screen,projection"/>
 		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <!--END CSS-->
     
