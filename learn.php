@@ -5,8 +5,6 @@ Template Name: learn
 ?>
 
 Learn.php
-<?php include "header.php"; ?>
-<?php include "navigation.php"; ?>
 <div id="content" class="narrowcolumn">
 
 <!-- This sets the $curauth variable -->
@@ -30,8 +28,8 @@ Learn.php
 
     <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
         <li>
-            <a href="<?php the_permalink() ?>" rel="bookmark" title="Permanent Link: <?php the_title(); ?>">
-            <?php the_title(); ?></a>,
+            <h2 href="<?php the_permalink() ?>" rel="bookmark" title="Permanent Link: <?php the_title(); ?>">
+            <?php the_title(); ?></h2>, <!-- This was a link -->
             <?php the_time('d M Y'); ?> in <?php the_category('&');?>
         </li>
 
@@ -44,4 +42,3 @@ Learn.php
 
     </ul>
 </div>
-<?php include "footer.php"; ?>

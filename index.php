@@ -3,7 +3,6 @@
 Template Name: index
 */
 ?>
-index.php
 
 <?php include "header.php"; ?>
 <?php include "navigation.php"; ?>

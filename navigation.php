@@ -2,9 +2,9 @@
 <header id="sectionNavigation">
 	<div class="container clearfix">
 		<div class="row desktopBio valign-wrapper white"> <!-- Desktop bio information -->
-			<div class="col s6"><h5 class="left-align light-blue-text text-darken-4 logoText valign">Bridgeport Presbyterian</h5></div>
+			<div class="col s6"><a href="http://localhost/wordpress/" style="text-decoration:none;"><h5 class="left-align light-blue-text text-darken-4 logoText valign">Bridgeport Presbyterian</h5></a></div>
 			<div class="hide-on-large-only"><br></div> <!-- Mobile and Tablet bio information -->
-			<div class="col s6"><p class="right-align light-blue-text text-darken-4 valign"> 616 DEKALB PIKE, BRIDGEPORT PA</p></div>
+			<div class="col s6"><a href="https://goo.gl/maps/Esfmq" target="blank"><p class="right-align light-blue-text text-darken-4 valign"> 616 DEKALB PIKE, BRIDGEPORT PA</p></a></div>
 		</div>
 		<div class="row">
 			<!--navigation-->
